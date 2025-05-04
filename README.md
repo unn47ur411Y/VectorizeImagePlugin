@@ -102,5 +102,5 @@ Recommendations based on generation mode:
 
 ## Feedback
 
-Feel free to submit suggestions, issues, or feature requests via [GitHub Issues](https://github.com/your-repo/issues).
+Feel free to submit suggestions, issues, or feature requests via [GitHub Issues](https://github.com/unn47ur411Y/issues).
 
