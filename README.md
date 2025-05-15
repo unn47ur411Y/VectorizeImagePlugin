@@ -90,13 +90,13 @@ How variables affect processing time:
 Recommendations based on generation mode:
 
 - **Random Generation Mode**:  
-  With `random_spacing` set to `2`, it is recommended to keep the texture size under **500×500** using the `down_scale_multiplier`.
+  With `random_spacing` set to `2`, it is recommended to keep the texture size under **512×512** using the `down_scale_multiplier`.
 
 - **Edge Generation Mode**:  
-  With `edge_threshold` set to `0.5`, `color_contrast_threshold` set to `1`, and `dot_spacing` set to `10`, it is recommended to keep the texture size under **250×250** using the `down_scale_multiplier`.
+  With `edge_threshold` set to `0.5`, `color_contrast_threshold` set to `1`, and `dot_spacing` set to `10`, it is recommended to keep the texture size under **256×256** using the `down_scale_multiplier`.
 
 - **Segment Generation Mode**:  
-  With `segment_threshold` set to `0.5`, `color_contrast_threshold` set to `1`, and `dot_spacing` set to `10`, it is recommended to keep the texture size under **120×120** using the `down_scale_multiplier`.
+  With `segment_threshold` set to `0.5`, `color_contrast_threshold` set to `1`, and `dot_spacing` set to `10`, it is recommended to keep the texture size under **128×128** using the `down_scale_multiplier`.
   
 ---
 
